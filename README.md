@@ -12,3 +12,10 @@ d - Projeto de Interface.
 A pasta Etapas_02_e_03 possui:
 a - Construção das Interfaces em um projeto de programação web;
 b - Construção de todo o backend do projeto;
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Observações:
+Para acessar pela primeira vez o projeto, é necessário utilizar as seguintes credenciais:
+
+Login: admin
+Senha: admin
