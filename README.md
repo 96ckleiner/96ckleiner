@@ -1,7 +1,7 @@
 # Projeto Final da Disciplina - Projeto de Website
 Este projeto foi desenvolvido pelo aluno:
 
-    Caio Kleyner Leal Carvalho
+*   Caio Kleyner Leal Carvalho    
     
 A pasta Etapa_01 possui:
 a - Análise de Viabilidade do projeto (utilizando Mapa Mental);
