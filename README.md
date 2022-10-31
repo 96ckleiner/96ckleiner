@@ -1,21 +1,6 @@
-# Projeto Final da Disciplina - Projeto de Website
-Este projeto foi desenvolvido pelo aluno:
-
-*   Caio Kleyner Leal Carvalho    
-    
-A pasta Etapa_01 possui:
-a - Análise de Viabilidade do projeto (utilizando Mapa Mental);
-b - Levantamento de Requisitos (utilizando Mapa Mental);
-c - Análise de Requisitos com o diagrama de casos de uso;
-d - Projeto de Interface.
-
-A pasta Etapas_02_e_03 possui:
-a - Construção das Interfaces em um projeto de programação web;
-b - Construção de todo o backend do projeto;
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-Observações:
-Para acessar pela primeira vez o projeto, é necessário utilizar as seguintes credenciais:
-
-Login: admin
-Senha: admin
+#What's up dude? Welcome to my projects page, here we can share ideas, to learn together and dreaming highest.<br>
+#My name's Caio Kleyner Leal Carvalho, nickname 96ckleiner is mine.<br>
+#I'm Brazilian, born and raised in Parauapebas, Pará. I am a public officer, working in patients care at the Municipal Health Department (SEMSA) of Parauapebas town.<br>
+#Nowadays, I'd studied on my free time HTML5, CSS3 & JavaScript.<br>
+#Frameworks I use: BootStrap; jQuery; Vue.js.<br>
+#I program in: VBA with focus on Excel, [...].<br>
